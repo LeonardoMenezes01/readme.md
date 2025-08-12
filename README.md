@@ -50,10 +50,6 @@
 
 
 
-
-
-
-
 ## 🏆Qualidades
 - Trabalho em equipe
 - Liderar uma equipe
