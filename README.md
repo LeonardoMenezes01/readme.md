@@ -1,5 +1,5 @@
 ## Sobre mim <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="2%"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" width="2%">:
-- Olá, meu nome é Leonardo Menezes, tenho 35 anos e moro atualmente em Niterói - RJ. Sou programar Backend, gosto de programar em Javascript e Python, e sei um pouco a mais que o básico na linguagem de marcação HTML
+- Olá, meu nome é Leonardo Menezes, tenho 35 anos e moro atualmente em Niterói - RJ. Sou programar Backend, gosto de programar em Javascript e Python, e sei um pouco a mais que o básico na linguagem de marcação HTML <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="2%">
 
 
 
