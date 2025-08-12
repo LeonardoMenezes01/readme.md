@@ -16,7 +16,7 @@
 
 ## 🗺️ Idiomas
 - Português: Nativo
-- Inglês : Básico
+- Inglês : Básico 
 
 ## 📓 Cursos BigTech 
 - Curso Cisco
@@ -24,11 +24,11 @@
 - Segurança no trabalho
 - Segurança Cibernética
 - Ética na Inteligência Artificial
-## 🧑‍💻 Bibliotecas de linguagem
+## 🧑‍💻 Bibliotecas de linguagem 
 - Tkinter
-- Chalk
+- Chalk 
 - Cow say
-- Figlet
+- Figlet 
 
 ## 📈 Pontes a Melhorar 
 - Nervosismo ao apresentar para muitas pessoas
@@ -36,15 +36,20 @@
 - Me dedicar mais a escola
 
 ## 🎨 Hobbies
-- Jogar futevôlei
-- Jogar Valorant
-- Jogar Fortnite
-- Viajar em familia
-
+- Jogar futevôlei 
 <img src="https://jornalismorio.espm.br/wp-content/uploads/2021/09/bola-e-rede-futevolei.jpeg" width="10%">
+
+- Jogar Valorant
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Valorant_logo_-_pink_color_version.svg" width="10%">
+
+- Jogar Fortnite
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Fortnite_F_lettermark_logo.png" width="10%">
+
+- Viajar em familia
 <img src="https://cdn-clubecandeias.s3.sa-east-1.amazonaws.com/uploads/2019/06/destinos-bacanas-para-viajar-em-familia.jpg" width="10%">
+
+
+
 
 
 
