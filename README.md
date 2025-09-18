@@ -63,5 +63,8 @@
 - Arquitetura de Redes com IOT
 - Lógica de Programação
 
-[Educaverse](Educaverse.pdf)
-[Ciberguardiões](CiberGuardioes.pdf)
+## 📝 Projetos
+
+[Projeto Educaverse](Educaverse.pdf)
+
+[Projeto Ciber Guardiões](CiberGuardioes.pdf)
