@@ -63,3 +63,5 @@
 - Arquitetura de Redes com IOT
 - Lógica de Programação
 
+[Educaverse](Educaverse.pdf)
+[Ciberguardiões](CiberGuardioes.pdf)
