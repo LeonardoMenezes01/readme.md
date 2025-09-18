@@ -65,6 +65,6 @@
 
 ## 📝 Projetos
 
-[Projeto Educaverse](Educaverse.pdf)
+- [Projeto Educaverse](Educaverse.pdf)
 
-[Projeto Ciber Guardiões](CiberGuardioes.pdf)
+- [Projeto Ciber Guardiões](CiberGuardioes.pdf)
